@@ -1,0 +1,2242 @@
+{
+  "APP-2001": {
+    "app_id": "APP-2001",
+    "business_unit": "Logistics Operations",
+    "criticality": "tier2",
+    "auto_renew": true,
+    "owner_handle": "jchen-ops"
+  },
+  "APP-2002": {
+    "app_id": "APP-2002",
+    "business_unit": "Sales",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "mrivera-it"
+  },
+  "APP-2003": {
+    "app_id": "APP-2003",
+    "business_unit": "Finance",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "akaur-fin"
+  },
+  "APP-2004": {
+    "app_id": "APP-2004",
+    "business_unit": "Procurement",
+    "criticality": "tier1",
+    "auto_renew": true,
+    "owner_handle": "dsouza-eng"
+  },
+  "APP-2005": {
+    "app_id": "APP-2005",
+    "business_unit": "People & Culture",
+    "criticality": "tier3",
+    "auto_renew": false,
+    "owner_handle": "tnguyen-cs"
+  },
+  "APP-2006": {
+    "app_id": "APP-2006",
+    "business_unit": "Field Services",
+    "criticality": "tier2",
+    "auto_renew": true,
+    "owner_handle": "pvolkov-sales"
+  },
+  "APP-2007": {
+    "app_id": "APP-2007",
+    "business_unit": "Engineering",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "lmoretti-proc"
+  },
+  "APP-2008": {
+    "app_id": "APP-2008",
+    "business_unit": "Data & Analytics",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "hbarros-field"
+  },
+  "APP-2009": {
+    "app_id": "APP-2009",
+    "business_unit": "Customer Success",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "rkapoor-data"
+  },
+  "APP-2010": {
+    "app_id": "APP-2010",
+    "business_unit": "Logistics Operations",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "eallison-it"
+  },
+  "APP-2011": {
+    "app_id": "APP-2011",
+    "business_unit": "Sales",
+    "criticality": "tier2",
+    "auto_renew": true,
+    "owner_handle": "jchen-ops"
+  },
+  "APP-2012": {
+    "app_id": "APP-2012",
+    "business_unit": "Finance",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "mrivera-it"
+  },
+  "APP-2013": {
+    "app_id": "APP-2013",
+    "business_unit": "Procurement",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "akaur-fin"
+  },
+  "APP-2014": {
+    "app_id": "APP-2014",
+    "business_unit": "People & Culture",
+    "criticality": "tier3",
+    "auto_renew": false,
+    "owner_handle": "dsouza-eng"
+  },
+  "APP-2015": {
+    "app_id": "APP-2015",
+    "business_unit": "Field Services",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "tnguyen-cs"
+  },
+  "APP-2016": {
+    "app_id": "APP-2016",
+    "business_unit": "Engineering",
+    "criticality": "tier2",
+    "auto_renew": true,
+    "owner_handle": "pvolkov-sales"
+  },
+  "APP-2017": {
+    "app_id": "APP-2017",
+    "business_unit": "Data & Analytics",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "lmoretti-proc"
+  },
+  "APP-2018": {
+    "app_id": "APP-2018",
+    "business_unit": "Customer Success",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "hbarros-field"
+  },
+  "APP-2019": {
+    "app_id": "APP-2019",
+    "business_unit": "Logistics Operations",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "rkapoor-data"
+  },
+  "APP-2020": {
+    "app_id": "APP-2020",
+    "business_unit": "Sales",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "eallison-it"
+  },
+  "APP-2021": {
+    "app_id": "APP-2021",
+    "business_unit": "Finance",
+    "criticality": "tier1",
+    "auto_renew": true,
+    "owner_handle": "jchen-ops"
+  },
+  "APP-2022": {
+    "app_id": "APP-2022",
+    "business_unit": "Procurement",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "mrivera-it"
+  },
+  "APP-2023": {
+    "app_id": "APP-2023",
+    "business_unit": "People & Culture",
+    "criticality": "tier3",
+    "auto_renew": false,
+    "owner_handle": "akaur-fin"
+  },
+  "APP-2024": {
+    "app_id": "APP-2024",
+    "business_unit": "Field Services",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "dsouza-eng"
+  },
+  "APP-2025": {
+    "app_id": "APP-2025",
+    "business_unit": "Engineering",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "tnguyen-cs"
+  },
+  "APP-2026": {
+    "app_id": "APP-2026",
+    "business_unit": "Data & Analytics",
+    "criticality": "tier2",
+    "auto_renew": true,
+    "owner_handle": "pvolkov-sales"
+  },
+  "APP-2027": {
+    "app_id": "APP-2027",
+    "business_unit": "Customer Success",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "lmoretti-proc"
+  },
+  "APP-2028": {
+    "app_id": "APP-2028",
+    "business_unit": "Logistics Operations",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "hbarros-field"
+  },
+  "APP-2029": {
+    "app_id": "APP-2029",
+    "business_unit": "Sales",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "rkapoor-data"
+  },
+  "APP-2030": {
+    "app_id": "APP-2030",
+    "business_unit": "Finance",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "eallison-it"
+  },
+  "APP-2031": {
+    "app_id": "APP-2031",
+    "business_unit": "Procurement",
+    "criticality": "tier2",
+    "auto_renew": true,
+    "owner_handle": "jchen-ops"
+  },
+  "APP-2032": {
+    "app_id": "APP-2032",
+    "business_unit": "People & Culture",
+    "criticality": "tier3",
+    "auto_renew": false,
+    "owner_handle": "mrivera-it"
+  },
+  "APP-2033": {
+    "app_id": "APP-2033",
+    "business_unit": "Field Services",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "akaur-fin"
+  },
+  "APP-2034": {
+    "app_id": "APP-2034",
+    "business_unit": "Engineering",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "dsouza-eng"
+  },
+  "APP-2035": {
+    "app_id": "APP-2035",
+    "business_unit": "Data & Analytics",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "tnguyen-cs"
+  },
+  "APP-2036": {
+    "app_id": "APP-2036",
+    "business_unit": "Customer Success",
+    "criticality": "tier2",
+    "auto_renew": true,
+    "owner_handle": "pvolkov-sales"
+  },
+  "APP-2037": {
+    "app_id": "APP-2037",
+    "business_unit": "Logistics Operations",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "lmoretti-proc"
+  },
+  "APP-2038": {
+    "app_id": "APP-2038",
+    "business_unit": "Sales",
+    "criticality": "tier1",
+    "auto_renew": true,
+    "owner_handle": "hbarros-field"
+  },
+  "APP-2039": {
+    "app_id": "APP-2039",
+    "business_unit": "Finance",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "rkapoor-data"
+  },
+  "APP-2040": {
+    "app_id": "APP-2040",
+    "business_unit": "Procurement",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "eallison-it"
+  },
+  "APP-2041": {
+    "app_id": "APP-2041",
+    "business_unit": "People & Culture",
+    "criticality": "tier2",
+    "auto_renew": false,
+    "owner_handle": "jchen-ops"
+  },
+  "APP-2042": {
+    "app_id": "APP-2042",
+    "business_unit": "Field Services",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "mrivera-it"
+  },
+  "APP-2043": {
+    "app_id": "APP-2043",
+    "business_unit": "Engineering",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "akaur-fin"
+  },
+  "APP-2044": {
+    "app_id": "APP-2044",
+    "business_unit": "Data & Analytics",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "dsouza-eng"
+  },
+  "APP-2045": {
+    "app_id": "APP-2045",
+    "business_unit": "Customer Success",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "tnguyen-cs"
+  },
+  "APP-2046": {
+    "app_id": "APP-2046",
+    "business_unit": "Logistics Operations",
+    "criticality": "tier2",
+    "auto_renew": true,
+    "owner_handle": "pvolkov-sales"
+  },
+  "APP-2047": {
+    "app_id": "APP-2047",
+    "business_unit": "Sales",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "lmoretti-proc"
+  },
+  "APP-2048": {
+    "app_id": "APP-2048",
+    "business_unit": "Finance",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "hbarros-field"
+  },
+  "APP-2049": {
+    "app_id": "APP-2049",
+    "business_unit": "Procurement",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "rkapoor-data"
+  },
+  "APP-2050": {
+    "app_id": "APP-2050",
+    "business_unit": "People & Culture",
+    "criticality": "tier3",
+    "auto_renew": false,
+    "owner_handle": "eallison-it"
+  },
+  "APP-2051": {
+    "app_id": "APP-2051",
+    "business_unit": "Field Services",
+    "criticality": "tier2",
+    "auto_renew": true,
+    "owner_handle": "jchen-ops"
+  },
+  "APP-2052": {
+    "app_id": "APP-2052",
+    "business_unit": "Engineering",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "mrivera-it"
+  },
+  "APP-2053": {
+    "app_id": "APP-2053",
+    "business_unit": "Data & Analytics",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "akaur-fin"
+  },
+  "APP-2054": {
+    "app_id": "APP-2054",
+    "business_unit": "Customer Success",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "dsouza-eng"
+  },
+  "APP-2055": {
+    "app_id": "APP-2055",
+    "business_unit": "Logistics Operations",
+    "criticality": "tier1",
+    "auto_renew": true,
+    "owner_handle": "tnguyen-cs"
+  },
+  "APP-2056": {
+    "app_id": "APP-2056",
+    "business_unit": "Sales",
+    "criticality": "tier2",
+    "auto_renew": true,
+    "owner_handle": "pvolkov-sales"
+  },
+  "APP-2057": {
+    "app_id": "APP-2057",
+    "business_unit": "Finance",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "lmoretti-proc"
+  },
+  "APP-2058": {
+    "app_id": "APP-2058",
+    "business_unit": "Procurement",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "hbarros-field"
+  },
+  "APP-2059": {
+    "app_id": "APP-2059",
+    "business_unit": "People & Culture",
+    "criticality": "tier3",
+    "auto_renew": false,
+    "owner_handle": "rkapoor-data"
+  },
+  "APP-2060": {
+    "app_id": "APP-2060",
+    "business_unit": "Field Services",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "eallison-it"
+  },
+  "APP-2061": {
+    "app_id": "APP-2061",
+    "business_unit": "Engineering",
+    "criticality": "tier2",
+    "auto_renew": true,
+    "owner_handle": "jchen-ops"
+  },
+  "APP-2062": {
+    "app_id": "APP-2062",
+    "business_unit": "Data & Analytics",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "mrivera-it"
+  },
+  "APP-2063": {
+    "app_id": "APP-2063",
+    "business_unit": "Customer Success",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "akaur-fin"
+  },
+  "APP-2064": {
+    "app_id": "APP-2064",
+    "business_unit": "Logistics Operations",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "dsouza-eng"
+  },
+  "APP-2065": {
+    "app_id": "APP-2065",
+    "business_unit": "Sales",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "tnguyen-cs"
+  },
+  "APP-2066": {
+    "app_id": "APP-2066",
+    "business_unit": "Finance",
+    "criticality": "tier2",
+    "auto_renew": true,
+    "owner_handle": "pvolkov-sales"
+  },
+  "APP-2067": {
+    "app_id": "APP-2067",
+    "business_unit": "Procurement",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "lmoretti-proc"
+  },
+  "APP-2068": {
+    "app_id": "APP-2068",
+    "business_unit": "People & Culture",
+    "criticality": "tier3",
+    "auto_renew": false,
+    "owner_handle": "hbarros-field"
+  },
+  "APP-2069": {
+    "app_id": "APP-2069",
+    "business_unit": "Field Services",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "rkapoor-data"
+  },
+  "APP-2070": {
+    "app_id": "APP-2070",
+    "business_unit": "Engineering",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "eallison-it"
+  },
+  "APP-2071": {
+    "app_id": "APP-2071",
+    "business_unit": "Data & Analytics",
+    "criticality": "tier2",
+    "auto_renew": true,
+    "owner_handle": "jchen-ops"
+  },
+  "APP-2072": {
+    "app_id": "APP-2072",
+    "business_unit": "Customer Success",
+    "criticality": "tier1",
+    "auto_renew": true,
+    "owner_handle": "mrivera-it"
+  },
+  "APP-2073": {
+    "app_id": "APP-2073",
+    "business_unit": "Logistics Operations",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "akaur-fin"
+  },
+  "APP-2074": {
+    "app_id": "APP-2074",
+    "business_unit": "Sales",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "dsouza-eng"
+  },
+  "APP-2075": {
+    "app_id": "APP-2075",
+    "business_unit": "Finance",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "tnguyen-cs"
+  },
+  "APP-2076": {
+    "app_id": "APP-2076",
+    "business_unit": "Procurement",
+    "criticality": "tier2",
+    "auto_renew": true,
+    "owner_handle": "pvolkov-sales"
+  },
+  "APP-2077": {
+    "app_id": "APP-2077",
+    "business_unit": "People & Culture",
+    "criticality": "tier3",
+    "auto_renew": false,
+    "owner_handle": "lmoretti-proc"
+  },
+  "APP-2078": {
+    "app_id": "APP-2078",
+    "business_unit": "Field Services",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "hbarros-field"
+  },
+  "APP-2079": {
+    "app_id": "APP-2079",
+    "business_unit": "Engineering",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "rkapoor-data"
+  },
+  "APP-2080": {
+    "app_id": "APP-2080",
+    "business_unit": "Data & Analytics",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "eallison-it"
+  },
+  "APP-2081": {
+    "app_id": "APP-2081",
+    "business_unit": "Customer Success",
+    "criticality": "tier2",
+    "auto_renew": true,
+    "owner_handle": "jchen-ops"
+  },
+  "APP-2082": {
+    "app_id": "APP-2082",
+    "business_unit": "Logistics Operations",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "mrivera-it"
+  },
+  "APP-2083": {
+    "app_id": "APP-2083",
+    "business_unit": "Sales",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "akaur-fin"
+  },
+  "APP-2084": {
+    "app_id": "APP-2084",
+    "business_unit": "Finance",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "dsouza-eng"
+  },
+  "APP-2085": {
+    "app_id": "APP-2085",
+    "business_unit": "Procurement",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "tnguyen-cs"
+  },
+  "APP-2086": {
+    "app_id": "APP-2086",
+    "business_unit": "People & Culture",
+    "criticality": "tier2",
+    "auto_renew": false,
+    "owner_handle": "pvolkov-sales"
+  },
+  "APP-2087": {
+    "app_id": "APP-2087",
+    "business_unit": "Field Services",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "lmoretti-proc"
+  },
+  "APP-2088": {
+    "app_id": "APP-2088",
+    "business_unit": "Engineering",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "hbarros-field"
+  },
+  "APP-2089": {
+    "app_id": "APP-2089",
+    "business_unit": "Data & Analytics",
+    "criticality": "tier1",
+    "auto_renew": true,
+    "owner_handle": "rkapoor-data"
+  },
+  "APP-2090": {
+    "app_id": "APP-2090",
+    "business_unit": "Customer Success",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "eallison-it"
+  },
+  "APP-2091": {
+    "app_id": "APP-2091",
+    "business_unit": "Logistics Operations",
+    "criticality": "tier2",
+    "auto_renew": true,
+    "owner_handle": "jchen-ops"
+  },
+  "APP-2092": {
+    "app_id": "APP-2092",
+    "business_unit": "Sales",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "mrivera-it"
+  },
+  "APP-2093": {
+    "app_id": "APP-2093",
+    "business_unit": "Finance",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "akaur-fin"
+  },
+  "APP-2094": {
+    "app_id": "APP-2094",
+    "business_unit": "Procurement",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "dsouza-eng"
+  },
+  "APP-2095": {
+    "app_id": "APP-2095",
+    "business_unit": "People & Culture",
+    "criticality": "tier3",
+    "auto_renew": false,
+    "owner_handle": "tnguyen-cs"
+  },
+  "APP-2096": {
+    "app_id": "APP-2096",
+    "business_unit": "Field Services",
+    "criticality": "tier2",
+    "auto_renew": true,
+    "owner_handle": "pvolkov-sales"
+  },
+  "APP-2097": {
+    "app_id": "APP-2097",
+    "business_unit": "Engineering",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "lmoretti-proc"
+  },
+  "APP-2098": {
+    "app_id": "APP-2098",
+    "business_unit": "Data & Analytics",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "hbarros-field"
+  },
+  "APP-2099": {
+    "app_id": "APP-2099",
+    "business_unit": "Customer Success",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "rkapoor-data"
+  },
+  "APP-2100": {
+    "app_id": "APP-2100",
+    "business_unit": "Logistics Operations",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "eallison-it"
+  },
+  "APP-2101": {
+    "app_id": "APP-2101",
+    "business_unit": "Sales",
+    "criticality": "tier2",
+    "auto_renew": true,
+    "owner_handle": "jchen-ops"
+  },
+  "APP-2102": {
+    "app_id": "APP-2102",
+    "business_unit": "Finance",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "mrivera-it"
+  },
+  "APP-2103": {
+    "app_id": "APP-2103",
+    "business_unit": "Procurement",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "akaur-fin"
+  },
+  "APP-2104": {
+    "app_id": "APP-2104",
+    "business_unit": "People & Culture",
+    "criticality": "tier3",
+    "auto_renew": false,
+    "owner_handle": "dsouza-eng"
+  },
+  "APP-2105": {
+    "app_id": "APP-2105",
+    "business_unit": "Field Services",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "tnguyen-cs"
+  },
+  "APP-2106": {
+    "app_id": "APP-2106",
+    "business_unit": "Engineering",
+    "criticality": "tier1",
+    "auto_renew": true,
+    "owner_handle": "pvolkov-sales"
+  },
+  "APP-2107": {
+    "app_id": "APP-2107",
+    "business_unit": "Data & Analytics",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "lmoretti-proc"
+  },
+  "APP-2108": {
+    "app_id": "APP-2108",
+    "business_unit": "Customer Success",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "hbarros-field"
+  },
+  "APP-2109": {
+    "app_id": "APP-2109",
+    "business_unit": "Logistics Operations",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "rkapoor-data"
+  },
+  "APP-2110": {
+    "app_id": "APP-2110",
+    "business_unit": "Sales",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "eallison-it"
+  },
+  "APP-2111": {
+    "app_id": "APP-2111",
+    "business_unit": "Finance",
+    "criticality": "tier2",
+    "auto_renew": true,
+    "owner_handle": "jchen-ops"
+  },
+  "APP-2112": {
+    "app_id": "APP-2112",
+    "business_unit": "Procurement",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "mrivera-it"
+  },
+  "APP-2113": {
+    "app_id": "APP-2113",
+    "business_unit": "People & Culture",
+    "criticality": "tier3",
+    "auto_renew": false,
+    "owner_handle": "akaur-fin"
+  },
+  "APP-2114": {
+    "app_id": "APP-2114",
+    "business_unit": "Field Services",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "dsouza-eng"
+  },
+  "APP-2115": {
+    "app_id": "APP-2115",
+    "business_unit": "Engineering",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "tnguyen-cs"
+  },
+  "APP-2116": {
+    "app_id": "APP-2116",
+    "business_unit": "Data & Analytics",
+    "criticality": "tier2",
+    "auto_renew": true,
+    "owner_handle": "pvolkov-sales"
+  },
+  "APP-2117": {
+    "app_id": "APP-2117",
+    "business_unit": "Customer Success",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "lmoretti-proc"
+  },
+  "APP-2118": {
+    "app_id": "APP-2118",
+    "business_unit": "Logistics Operations",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "hbarros-field"
+  },
+  "APP-2119": {
+    "app_id": "APP-2119",
+    "business_unit": "Sales",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "rkapoor-data"
+  },
+  "APP-2120": {
+    "app_id": "APP-2120",
+    "business_unit": "Finance",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "eallison-it"
+  },
+  "APP-2121": {
+    "app_id": "APP-2121",
+    "business_unit": "Procurement",
+    "criticality": "tier2",
+    "auto_renew": true,
+    "owner_handle": "jchen-ops"
+  },
+  "APP-2122": {
+    "app_id": "APP-2122",
+    "business_unit": "People & Culture",
+    "criticality": "tier3",
+    "auto_renew": false,
+    "owner_handle": "mrivera-it"
+  },
+  "APP-2123": {
+    "app_id": "APP-2123",
+    "business_unit": "Field Services",
+    "criticality": "tier1",
+    "auto_renew": true,
+    "owner_handle": "akaur-fin"
+  },
+  "APP-2124": {
+    "app_id": "APP-2124",
+    "business_unit": "Engineering",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "dsouza-eng"
+  },
+  "APP-2125": {
+    "app_id": "APP-2125",
+    "business_unit": "Data & Analytics",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "tnguyen-cs"
+  },
+  "APP-2126": {
+    "app_id": "APP-2126",
+    "business_unit": "Customer Success",
+    "criticality": "tier2",
+    "auto_renew": true,
+    "owner_handle": "pvolkov-sales"
+  },
+  "APP-2127": {
+    "app_id": "APP-2127",
+    "business_unit": "Logistics Operations",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "lmoretti-proc"
+  },
+  "APP-2128": {
+    "app_id": "APP-2128",
+    "business_unit": "Sales",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "hbarros-field"
+  },
+  "APP-2129": {
+    "app_id": "APP-2129",
+    "business_unit": "Finance",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "rkapoor-data"
+  },
+  "APP-2130": {
+    "app_id": "APP-2130",
+    "business_unit": "Procurement",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "eallison-it"
+  },
+  "APP-2131": {
+    "app_id": "APP-2131",
+    "business_unit": "People & Culture",
+    "criticality": "tier2",
+    "auto_renew": false,
+    "owner_handle": "jchen-ops"
+  },
+  "APP-2132": {
+    "app_id": "APP-2132",
+    "business_unit": "Field Services",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "mrivera-it"
+  },
+  "APP-2133": {
+    "app_id": "APP-2133",
+    "business_unit": "Engineering",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "akaur-fin"
+  },
+  "APP-2134": {
+    "app_id": "APP-2134",
+    "business_unit": "Data & Analytics",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "dsouza-eng"
+  },
+  "APP-2135": {
+    "app_id": "APP-2135",
+    "business_unit": "Customer Success",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "tnguyen-cs"
+  },
+  "APP-2136": {
+    "app_id": "APP-2136",
+    "business_unit": "Logistics Operations",
+    "criticality": "tier2",
+    "auto_renew": true,
+    "owner_handle": "pvolkov-sales"
+  },
+  "APP-2137": {
+    "app_id": "APP-2137",
+    "business_unit": "Sales",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "lmoretti-proc"
+  },
+  "APP-2138": {
+    "app_id": "APP-2138",
+    "business_unit": "Finance",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "hbarros-field"
+  },
+  "APP-2139": {
+    "app_id": "APP-2139",
+    "business_unit": "Procurement",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "rkapoor-data"
+  },
+  "APP-2140": {
+    "app_id": "APP-2140",
+    "business_unit": "People & Culture",
+    "criticality": "tier1",
+    "auto_renew": false,
+    "owner_handle": "eallison-it"
+  },
+  "APP-2141": {
+    "app_id": "APP-2141",
+    "business_unit": "Field Services",
+    "criticality": "tier2",
+    "auto_renew": true,
+    "owner_handle": "jchen-ops"
+  },
+  "APP-2142": {
+    "app_id": "APP-2142",
+    "business_unit": "Engineering",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "mrivera-it"
+  },
+  "APP-2143": {
+    "app_id": "APP-2143",
+    "business_unit": "Data & Analytics",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "akaur-fin"
+  },
+  "APP-2144": {
+    "app_id": "APP-2144",
+    "business_unit": "Customer Success",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "dsouza-eng"
+  },
+  "APP-2145": {
+    "app_id": "APP-2145",
+    "business_unit": "Logistics Operations",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "tnguyen-cs"
+  },
+  "APP-2146": {
+    "app_id": "APP-2146",
+    "business_unit": "Sales",
+    "criticality": "tier2",
+    "auto_renew": true,
+    "owner_handle": "pvolkov-sales"
+  },
+  "APP-2147": {
+    "app_id": "APP-2147",
+    "business_unit": "Finance",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "lmoretti-proc"
+  },
+  "APP-2148": {
+    "app_id": "APP-2148",
+    "business_unit": "Procurement",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "hbarros-field"
+  },
+  "APP-2149": {
+    "app_id": "APP-2149",
+    "business_unit": "People & Culture",
+    "criticality": "tier3",
+    "auto_renew": false,
+    "owner_handle": "rkapoor-data"
+  },
+  "APP-2150": {
+    "app_id": "APP-2150",
+    "business_unit": "Field Services",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "eallison-it"
+  },
+  "APP-2151": {
+    "app_id": "APP-2151",
+    "business_unit": "Engineering",
+    "criticality": "tier2",
+    "auto_renew": true,
+    "owner_handle": "jchen-ops"
+  },
+  "APP-2152": {
+    "app_id": "APP-2152",
+    "business_unit": "Data & Analytics",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "mrivera-it"
+  },
+  "APP-2153": {
+    "app_id": "APP-2153",
+    "business_unit": "Customer Success",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "akaur-fin"
+  },
+  "APP-2154": {
+    "app_id": "APP-2154",
+    "business_unit": "Logistics Operations",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "dsouza-eng"
+  },
+  "APP-2155": {
+    "app_id": "APP-2155",
+    "business_unit": "Sales",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "tnguyen-cs"
+  },
+  "APP-2156": {
+    "app_id": "APP-2156",
+    "business_unit": "Finance",
+    "criticality": "tier2",
+    "auto_renew": true,
+    "owner_handle": "pvolkov-sales"
+  },
+  "APP-2157": {
+    "app_id": "APP-2157",
+    "business_unit": "Procurement",
+    "criticality": "tier1",
+    "auto_renew": true,
+    "owner_handle": "lmoretti-proc"
+  },
+  "APP-2158": {
+    "app_id": "APP-2158",
+    "business_unit": "People & Culture",
+    "criticality": "tier3",
+    "auto_renew": false,
+    "owner_handle": "hbarros-field"
+  },
+  "APP-2159": {
+    "app_id": "APP-2159",
+    "business_unit": "Field Services",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "rkapoor-data"
+  },
+  "APP-2160": {
+    "app_id": "APP-2160",
+    "business_unit": "Engineering",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "eallison-it"
+  },
+  "APP-2161": {
+    "app_id": "APP-2161",
+    "business_unit": "Data & Analytics",
+    "criticality": "tier2",
+    "auto_renew": true,
+    "owner_handle": "jchen-ops"
+  },
+  "APP-2162": {
+    "app_id": "APP-2162",
+    "business_unit": "Customer Success",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "mrivera-it"
+  },
+  "APP-2163": {
+    "app_id": "APP-2163",
+    "business_unit": "Logistics Operations",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "akaur-fin"
+  },
+  "APP-2164": {
+    "app_id": "APP-2164",
+    "business_unit": "Sales",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "dsouza-eng"
+  },
+  "APP-2165": {
+    "app_id": "APP-2165",
+    "business_unit": "Finance",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "tnguyen-cs"
+  },
+  "APP-2166": {
+    "app_id": "APP-2166",
+    "business_unit": "Procurement",
+    "criticality": "tier2",
+    "auto_renew": true,
+    "owner_handle": "pvolkov-sales"
+  },
+  "APP-2167": {
+    "app_id": "APP-2167",
+    "business_unit": "People & Culture",
+    "criticality": "tier3",
+    "auto_renew": false,
+    "owner_handle": "lmoretti-proc"
+  },
+  "APP-2168": {
+    "app_id": "APP-2168",
+    "business_unit": "Field Services",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "hbarros-field"
+  },
+  "APP-2169": {
+    "app_id": "APP-2169",
+    "business_unit": "Engineering",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "rkapoor-data"
+  },
+  "APP-2170": {
+    "app_id": "APP-2170",
+    "business_unit": "Data & Analytics",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "eallison-it"
+  },
+  "APP-2171": {
+    "app_id": "APP-2171",
+    "business_unit": "Customer Success",
+    "criticality": "tier2",
+    "auto_renew": true,
+    "owner_handle": "jchen-ops"
+  },
+  "APP-2172": {
+    "app_id": "APP-2172",
+    "business_unit": "Logistics Operations",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "mrivera-it"
+  },
+  "APP-2173": {
+    "app_id": "APP-2173",
+    "business_unit": "Sales",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "akaur-fin"
+  },
+  "APP-2174": {
+    "app_id": "APP-2174",
+    "business_unit": "Finance",
+    "criticality": "tier1",
+    "auto_renew": true,
+    "owner_handle": "dsouza-eng"
+  },
+  "APP-2175": {
+    "app_id": "APP-2175",
+    "business_unit": "Procurement",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "tnguyen-cs"
+  },
+  "APP-2176": {
+    "app_id": "APP-2176",
+    "business_unit": "People & Culture",
+    "criticality": "tier2",
+    "auto_renew": false,
+    "owner_handle": "pvolkov-sales"
+  },
+  "APP-2177": {
+    "app_id": "APP-2177",
+    "business_unit": "Field Services",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "lmoretti-proc"
+  },
+  "APP-2178": {
+    "app_id": "APP-2178",
+    "business_unit": "Engineering",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "hbarros-field"
+  },
+  "APP-2179": {
+    "app_id": "APP-2179",
+    "business_unit": "Data & Analytics",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "rkapoor-data"
+  },
+  "APP-2180": {
+    "app_id": "APP-2180",
+    "business_unit": "Customer Success",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "eallison-it"
+  },
+  "APP-2181": {
+    "app_id": "APP-2181",
+    "business_unit": "Logistics Operations",
+    "criticality": "tier2",
+    "auto_renew": true,
+    "owner_handle": "jchen-ops"
+  },
+  "APP-2182": {
+    "app_id": "APP-2182",
+    "business_unit": "Sales",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "mrivera-it"
+  },
+  "APP-2183": {
+    "app_id": "APP-2183",
+    "business_unit": "Finance",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "akaur-fin"
+  },
+  "APP-2184": {
+    "app_id": "APP-2184",
+    "business_unit": "Procurement",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "dsouza-eng"
+  },
+  "APP-2185": {
+    "app_id": "APP-2185",
+    "business_unit": "People & Culture",
+    "criticality": "tier3",
+    "auto_renew": false,
+    "owner_handle": "tnguyen-cs"
+  },
+  "APP-2186": {
+    "app_id": "APP-2186",
+    "business_unit": "Field Services",
+    "criticality": "tier2",
+    "auto_renew": true,
+    "owner_handle": "pvolkov-sales"
+  },
+  "APP-2187": {
+    "app_id": "APP-2187",
+    "business_unit": "Engineering",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "lmoretti-proc"
+  },
+  "APP-2188": {
+    "app_id": "APP-2188",
+    "business_unit": "Data & Analytics",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "hbarros-field"
+  },
+  "APP-2189": {
+    "app_id": "APP-2189",
+    "business_unit": "Customer Success",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "rkapoor-data"
+  },
+  "APP-2190": {
+    "app_id": "APP-2190",
+    "business_unit": "Logistics Operations",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "eallison-it"
+  },
+  "APP-2191": {
+    "app_id": "APP-2191",
+    "business_unit": "Sales",
+    "criticality": "tier1",
+    "auto_renew": true,
+    "owner_handle": "jchen-ops"
+  },
+  "APP-2192": {
+    "app_id": "APP-2192",
+    "business_unit": "Finance",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "mrivera-it"
+  },
+  "APP-2193": {
+    "app_id": "APP-2193",
+    "business_unit": "Procurement",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "akaur-fin"
+  },
+  "APP-2194": {
+    "app_id": "APP-2194",
+    "business_unit": "People & Culture",
+    "criticality": "tier3",
+    "auto_renew": false,
+    "owner_handle": "dsouza-eng"
+  },
+  "APP-2195": {
+    "app_id": "APP-2195",
+    "business_unit": "Field Services",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "tnguyen-cs"
+  },
+  "APP-2196": {
+    "app_id": "APP-2196",
+    "business_unit": "Engineering",
+    "criticality": "tier2",
+    "auto_renew": true,
+    "owner_handle": "pvolkov-sales"
+  },
+  "APP-2197": {
+    "app_id": "APP-2197",
+    "business_unit": "Data & Analytics",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "lmoretti-proc"
+  },
+  "APP-2198": {
+    "app_id": "APP-2198",
+    "business_unit": "Customer Success",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "hbarros-field"
+  },
+  "APP-2199": {
+    "app_id": "APP-2199",
+    "business_unit": "Logistics Operations",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "rkapoor-data"
+  },
+  "APP-2200": {
+    "app_id": "APP-2200",
+    "business_unit": "Sales",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "eallison-it"
+  },
+  "APP-2201": {
+    "app_id": "APP-2201",
+    "business_unit": "Finance",
+    "criticality": "tier2",
+    "auto_renew": true,
+    "owner_handle": "jchen-ops"
+  },
+  "APP-2202": {
+    "app_id": "APP-2202",
+    "business_unit": "Procurement",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "mrivera-it"
+  },
+  "APP-2203": {
+    "app_id": "APP-2203",
+    "business_unit": "People & Culture",
+    "criticality": "tier3",
+    "auto_renew": false,
+    "owner_handle": "akaur-fin"
+  },
+  "APP-2204": {
+    "app_id": "APP-2204",
+    "business_unit": "Field Services",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "dsouza-eng"
+  },
+  "APP-2205": {
+    "app_id": "APP-2205",
+    "business_unit": "Engineering",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "tnguyen-cs"
+  },
+  "APP-2206": {
+    "app_id": "APP-2206",
+    "business_unit": "Data & Analytics",
+    "criticality": "tier2",
+    "auto_renew": true,
+    "owner_handle": "pvolkov-sales"
+  },
+  "APP-2207": {
+    "app_id": "APP-2207",
+    "business_unit": "Customer Success",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "lmoretti-proc"
+  },
+  "APP-2208": {
+    "app_id": "APP-2208",
+    "business_unit": "Logistics Operations",
+    "criticality": "tier1",
+    "auto_renew": true,
+    "owner_handle": "hbarros-field"
+  },
+  "APP-2209": {
+    "app_id": "APP-2209",
+    "business_unit": "Sales",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "rkapoor-data"
+  },
+  "APP-2210": {
+    "app_id": "APP-2210",
+    "business_unit": "Finance",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "eallison-it"
+  },
+  "APP-2211": {
+    "app_id": "APP-2211",
+    "business_unit": "Procurement",
+    "criticality": "tier2",
+    "auto_renew": true,
+    "owner_handle": "jchen-ops"
+  },
+  "APP-2212": {
+    "app_id": "APP-2212",
+    "business_unit": "People & Culture",
+    "criticality": "tier3",
+    "auto_renew": false,
+    "owner_handle": "mrivera-it"
+  },
+  "APP-2213": {
+    "app_id": "APP-2213",
+    "business_unit": "Field Services",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "akaur-fin"
+  },
+  "APP-2214": {
+    "app_id": "APP-2214",
+    "business_unit": "Engineering",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "dsouza-eng"
+  },
+  "APP-2215": {
+    "app_id": "APP-2215",
+    "business_unit": "Data & Analytics",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "tnguyen-cs"
+  },
+  "APP-2216": {
+    "app_id": "APP-2216",
+    "business_unit": "Customer Success",
+    "criticality": "tier2",
+    "auto_renew": true,
+    "owner_handle": "pvolkov-sales"
+  },
+  "APP-2217": {
+    "app_id": "APP-2217",
+    "business_unit": "Logistics Operations",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "lmoretti-proc"
+  },
+  "APP-2218": {
+    "app_id": "APP-2218",
+    "business_unit": "Sales",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "hbarros-field"
+  },
+  "APP-2219": {
+    "app_id": "APP-2219",
+    "business_unit": "Finance",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "rkapoor-data"
+  },
+  "APP-2220": {
+    "app_id": "APP-2220",
+    "business_unit": "Procurement",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "eallison-it"
+  },
+  "APP-2221": {
+    "app_id": "APP-2221",
+    "business_unit": "People & Culture",
+    "criticality": "tier2",
+    "auto_renew": false,
+    "owner_handle": "jchen-ops"
+  },
+  "APP-2222": {
+    "app_id": "APP-2222",
+    "business_unit": "Field Services",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "mrivera-it"
+  },
+  "APP-2223": {
+    "app_id": "APP-2223",
+    "business_unit": "Engineering",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "akaur-fin"
+  },
+  "APP-2224": {
+    "app_id": "APP-2224",
+    "business_unit": "Data & Analytics",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "dsouza-eng"
+  },
+  "APP-2225": {
+    "app_id": "APP-2225",
+    "business_unit": "Customer Success",
+    "criticality": "tier1",
+    "auto_renew": true,
+    "owner_handle": "tnguyen-cs"
+  },
+  "APP-2226": {
+    "app_id": "APP-2226",
+    "business_unit": "Logistics Operations",
+    "criticality": "tier2",
+    "auto_renew": true,
+    "owner_handle": "pvolkov-sales"
+  },
+  "APP-2227": {
+    "app_id": "APP-2227",
+    "business_unit": "Sales",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "lmoretti-proc"
+  },
+  "APP-2228": {
+    "app_id": "APP-2228",
+    "business_unit": "Finance",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "hbarros-field"
+  },
+  "APP-2229": {
+    "app_id": "APP-2229",
+    "business_unit": "Procurement",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "rkapoor-data"
+  },
+  "APP-2230": {
+    "app_id": "APP-2230",
+    "business_unit": "People & Culture",
+    "criticality": "tier3",
+    "auto_renew": false,
+    "owner_handle": "eallison-it"
+  },
+  "APP-2231": {
+    "app_id": "APP-2231",
+    "business_unit": "Field Services",
+    "criticality": "tier2",
+    "auto_renew": true,
+    "owner_handle": "jchen-ops"
+  },
+  "APP-2232": {
+    "app_id": "APP-2232",
+    "business_unit": "Engineering",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "mrivera-it"
+  },
+  "APP-2233": {
+    "app_id": "APP-2233",
+    "business_unit": "Data & Analytics",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "akaur-fin"
+  },
+  "APP-2234": {
+    "app_id": "APP-2234",
+    "business_unit": "Customer Success",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "dsouza-eng"
+  },
+  "APP-2235": {
+    "app_id": "APP-2235",
+    "business_unit": "Logistics Operations",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "tnguyen-cs"
+  },
+  "APP-2236": {
+    "app_id": "APP-2236",
+    "business_unit": "Sales",
+    "criticality": "tier2",
+    "auto_renew": true,
+    "owner_handle": "pvolkov-sales"
+  },
+  "APP-2237": {
+    "app_id": "APP-2237",
+    "business_unit": "Finance",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "lmoretti-proc"
+  },
+  "APP-2238": {
+    "app_id": "APP-2238",
+    "business_unit": "Procurement",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "hbarros-field"
+  },
+  "APP-2239": {
+    "app_id": "APP-2239",
+    "business_unit": "People & Culture",
+    "criticality": "tier3",
+    "auto_renew": false,
+    "owner_handle": "rkapoor-data"
+  },
+  "APP-2240": {
+    "app_id": "APP-2240",
+    "business_unit": "Field Services",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "eallison-it"
+  },
+  "APP-2241": {
+    "app_id": "APP-2241",
+    "business_unit": "Engineering",
+    "criticality": "tier2",
+    "auto_renew": true,
+    "owner_handle": "jchen-ops"
+  },
+  "APP-2242": {
+    "app_id": "APP-2242",
+    "business_unit": "Data & Analytics",
+    "criticality": "tier1",
+    "auto_renew": true,
+    "owner_handle": "mrivera-it"
+  },
+  "APP-2243": {
+    "app_id": "APP-2243",
+    "business_unit": "Customer Success",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "akaur-fin"
+  },
+  "APP-2244": {
+    "app_id": "APP-2244",
+    "business_unit": "Logistics Operations",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "dsouza-eng"
+  },
+  "APP-2245": {
+    "app_id": "APP-2245",
+    "business_unit": "Sales",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "tnguyen-cs"
+  },
+  "APP-2246": {
+    "app_id": "APP-2246",
+    "business_unit": "Finance",
+    "criticality": "tier2",
+    "auto_renew": true,
+    "owner_handle": "pvolkov-sales"
+  },
+  "APP-2247": {
+    "app_id": "APP-2247",
+    "business_unit": "Procurement",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "lmoretti-proc"
+  },
+  "APP-2248": {
+    "app_id": "APP-2248",
+    "business_unit": "People & Culture",
+    "criticality": "tier3",
+    "auto_renew": false,
+    "owner_handle": "hbarros-field"
+  },
+  "APP-2249": {
+    "app_id": "APP-2249",
+    "business_unit": "Field Services",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "rkapoor-data"
+  },
+  "APP-2250": {
+    "app_id": "APP-2250",
+    "business_unit": "Engineering",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "eallison-it"
+  },
+  "APP-2251": {
+    "app_id": "APP-2251",
+    "business_unit": "Data & Analytics",
+    "criticality": "tier2",
+    "auto_renew": true,
+    "owner_handle": "jchen-ops"
+  },
+  "APP-2252": {
+    "app_id": "APP-2252",
+    "business_unit": "Customer Success",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "mrivera-it"
+  },
+  "APP-2253": {
+    "app_id": "APP-2253",
+    "business_unit": "Logistics Operations",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "akaur-fin"
+  },
+  "APP-2254": {
+    "app_id": "APP-2254",
+    "business_unit": "Sales",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "dsouza-eng"
+  },
+  "APP-2255": {
+    "app_id": "APP-2255",
+    "business_unit": "Finance",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "tnguyen-cs"
+  },
+  "APP-2256": {
+    "app_id": "APP-2256",
+    "business_unit": "Procurement",
+    "criticality": "tier2",
+    "auto_renew": true,
+    "owner_handle": "pvolkov-sales"
+  },
+  "APP-2257": {
+    "app_id": "APP-2257",
+    "business_unit": "People & Culture",
+    "criticality": "tier3",
+    "auto_renew": false,
+    "owner_handle": "lmoretti-proc"
+  },
+  "APP-2258": {
+    "app_id": "APP-2258",
+    "business_unit": "Field Services",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "hbarros-field"
+  },
+  "APP-2259": {
+    "app_id": "APP-2259",
+    "business_unit": "Engineering",
+    "criticality": "tier1",
+    "auto_renew": true,
+    "owner_handle": "rkapoor-data"
+  },
+  "APP-2260": {
+    "app_id": "APP-2260",
+    "business_unit": "Data & Analytics",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "eallison-it"
+  },
+  "APP-2261": {
+    "app_id": "APP-2261",
+    "business_unit": "Customer Success",
+    "criticality": "tier2",
+    "auto_renew": true,
+    "owner_handle": "jchen-ops"
+  },
+  "APP-2262": {
+    "app_id": "APP-2262",
+    "business_unit": "Logistics Operations",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "mrivera-it"
+  },
+  "APP-2263": {
+    "app_id": "APP-2263",
+    "business_unit": "Sales",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "akaur-fin"
+  },
+  "APP-2264": {
+    "app_id": "APP-2264",
+    "business_unit": "Finance",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "dsouza-eng"
+  },
+  "APP-2265": {
+    "app_id": "APP-2265",
+    "business_unit": "Procurement",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "tnguyen-cs"
+  },
+  "APP-2266": {
+    "app_id": "APP-2266",
+    "business_unit": "People & Culture",
+    "criticality": "tier2",
+    "auto_renew": false,
+    "owner_handle": "pvolkov-sales"
+  },
+  "APP-2267": {
+    "app_id": "APP-2267",
+    "business_unit": "Field Services",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "lmoretti-proc"
+  },
+  "APP-2268": {
+    "app_id": "APP-2268",
+    "business_unit": "Engineering",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "hbarros-field"
+  },
+  "APP-2269": {
+    "app_id": "APP-2269",
+    "business_unit": "Data & Analytics",
+    "criticality": "tier2",
+    "auto_renew": true,
+    "owner_handle": "rkapoor-data"
+  },
+  "APP-2270": {
+    "app_id": "APP-2270",
+    "business_unit": "Customer Success",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "eallison-it"
+  },
+  "APP-2271": {
+    "app_id": "APP-2271",
+    "business_unit": "Logistics Operations",
+    "criticality": "tier2",
+    "auto_renew": true,
+    "owner_handle": "jchen-ops"
+  },
+  "APP-2272": {
+    "app_id": "APP-2272",
+    "business_unit": "Sales",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "mrivera-it"
+  },
+  "APP-2273": {
+    "app_id": "APP-2273",
+    "business_unit": "Finance",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "akaur-fin"
+  },
+  "APP-2274": {
+    "app_id": "APP-2274",
+    "business_unit": "Procurement",
+    "criticality": "tier1",
+    "auto_renew": true,
+    "owner_handle": "dsouza-eng"
+  },
+  "APP-2275": {
+    "app_id": "APP-2275",
+    "business_unit": "People & Culture",
+    "criticality": "tier3",
+    "auto_renew": false,
+    "owner_handle": "tnguyen-cs"
+  },
+  "APP-2276": {
+    "app_id": "APP-2276",
+    "business_unit": "Field Services",
+    "criticality": "tier1",
+    "auto_renew": true,
+    "owner_handle": "pvolkov-sales"
+  },
+  "APP-2277": {
+    "app_id": "APP-2277",
+    "business_unit": "Engineering",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "lmoretti-proc"
+  },
+  "APP-2278": {
+    "app_id": "APP-2278",
+    "business_unit": "Data & Analytics",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "hbarros-field"
+  },
+  "APP-2279": {
+    "app_id": "APP-2279",
+    "business_unit": "Customer Success",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "rkapoor-data"
+  },
+  "APP-2280": {
+    "app_id": "APP-2280",
+    "business_unit": "Logistics Operations",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "eallison-it"
+  },
+  "APP-2281": {
+    "app_id": "APP-2281",
+    "business_unit": "Sales",
+    "criticality": "tier2",
+    "auto_renew": true,
+    "owner_handle": "jchen-ops"
+  },
+  "APP-2282": {
+    "app_id": "APP-2282",
+    "business_unit": "Finance",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "mrivera-it"
+  },
+  "APP-2283": {
+    "app_id": "APP-2283",
+    "business_unit": "Procurement",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "akaur-fin"
+  },
+  "APP-2284": {
+    "app_id": "APP-2284",
+    "business_unit": "People & Culture",
+    "criticality": "tier3",
+    "auto_renew": false,
+    "owner_handle": "dsouza-eng"
+  },
+  "APP-2285": {
+    "app_id": "APP-2285",
+    "business_unit": "Field Services",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "tnguyen-cs"
+  },
+  "APP-2286": {
+    "app_id": "APP-2286",
+    "business_unit": "Engineering",
+    "criticality": "tier2",
+    "auto_renew": true,
+    "owner_handle": "pvolkov-sales"
+  },
+  "APP-2287": {
+    "app_id": "APP-2287",
+    "business_unit": "Data & Analytics",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "lmoretti-proc"
+  },
+  "APP-2288": {
+    "app_id": "APP-2288",
+    "business_unit": "Customer Success",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "hbarros-field"
+  },
+  "APP-2289": {
+    "app_id": "APP-2289",
+    "business_unit": "Logistics Operations",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "rkapoor-data"
+  },
+  "APP-2290": {
+    "app_id": "APP-2290",
+    "business_unit": "Sales",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "eallison-it"
+  },
+  "APP-2291": {
+    "app_id": "APP-2291",
+    "business_unit": "Finance",
+    "criticality": "tier2",
+    "auto_renew": true,
+    "owner_handle": "jchen-ops"
+  },
+  "APP-2292": {
+    "app_id": "APP-2292",
+    "business_unit": "Procurement",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "mrivera-it"
+  },
+  "APP-2293": {
+    "app_id": "APP-2293",
+    "business_unit": "People & Culture",
+    "criticality": "tier1",
+    "auto_renew": false,
+    "owner_handle": "akaur-fin"
+  },
+  "APP-2294": {
+    "app_id": "APP-2294",
+    "business_unit": "Field Services",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "dsouza-eng"
+  },
+  "APP-2295": {
+    "app_id": "APP-2295",
+    "business_unit": "Engineering",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "tnguyen-cs"
+  },
+  "APP-2296": {
+    "app_id": "APP-2296",
+    "business_unit": "Data & Analytics",
+    "criticality": "tier2",
+    "auto_renew": true,
+    "owner_handle": "pvolkov-sales"
+  },
+  "APP-2297": {
+    "app_id": "APP-2297",
+    "business_unit": "Customer Success",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "lmoretti-proc"
+  },
+  "APP-2298": {
+    "app_id": "APP-2298",
+    "business_unit": "Logistics Operations",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "hbarros-field"
+  },
+  "APP-2299": {
+    "app_id": "APP-2299",
+    "business_unit": "Sales",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "rkapoor-data"
+  },
+  "APP-2300": {
+    "app_id": "APP-2300",
+    "business_unit": "Finance",
+    "criticality": "tier1",
+    "auto_renew": true,
+    "owner_handle": "eallison-it"
+  },
+  "APP-2301": {
+    "app_id": "APP-2301",
+    "business_unit": "Procurement",
+    "criticality": "tier2",
+    "auto_renew": true,
+    "owner_handle": "jchen-ops"
+  },
+  "APP-2302": {
+    "app_id": "APP-2302",
+    "business_unit": "People & Culture",
+    "criticality": "tier3",
+    "auto_renew": false,
+    "owner_handle": "mrivera-it"
+  },
+  "APP-2303": {
+    "app_id": "APP-2303",
+    "business_unit": "Field Services",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "akaur-fin"
+  },
+  "APP-2304": {
+    "app_id": "APP-2304",
+    "business_unit": "Engineering",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "dsouza-eng"
+  },
+  "APP-2305": {
+    "app_id": "APP-2305",
+    "business_unit": "Data & Analytics",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "tnguyen-cs"
+  },
+  "APP-2306": {
+    "app_id": "APP-2306",
+    "business_unit": "Customer Success",
+    "criticality": "tier2",
+    "auto_renew": true,
+    "owner_handle": "pvolkov-sales"
+  },
+  "APP-2307": {
+    "app_id": "APP-2307",
+    "business_unit": "Logistics Operations",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "lmoretti-proc"
+  },
+  "APP-2308": {
+    "app_id": "APP-2308",
+    "business_unit": "Sales",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "hbarros-field"
+  },
+  "APP-2309": {
+    "app_id": "APP-2309",
+    "business_unit": "Finance",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "rkapoor-data"
+  },
+  "APP-2310": {
+    "app_id": "APP-2310",
+    "business_unit": "Procurement",
+    "criticality": "tier1",
+    "auto_renew": true,
+    "owner_handle": "eallison-it"
+  },
+  "APP-2311": {
+    "app_id": "APP-2311",
+    "business_unit": "People & Culture",
+    "criticality": "tier2",
+    "auto_renew": false,
+    "owner_handle": "jchen-ops"
+  },
+  "APP-2312": {
+    "app_id": "APP-2312",
+    "business_unit": "Field Services",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "mrivera-it"
+  },
+  "APP-2313": {
+    "app_id": "APP-2313",
+    "business_unit": "Engineering",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "akaur-fin"
+  },
+  "APP-2314": {
+    "app_id": "APP-2314",
+    "business_unit": "Data & Analytics",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "dsouza-eng"
+  },
+  "APP-2315": {
+    "app_id": "APP-2315",
+    "business_unit": "Customer Success",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "tnguyen-cs"
+  },
+  "APP-2316": {
+    "app_id": "APP-2316",
+    "business_unit": "Logistics Operations",
+    "criticality": "tier2",
+    "auto_renew": true,
+    "owner_handle": "pvolkov-sales"
+  },
+  "APP-2317": {
+    "app_id": "APP-2317",
+    "business_unit": "Sales",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "lmoretti-proc"
+  },
+  "APP-2318": {
+    "app_id": "APP-2318",
+    "business_unit": "Finance",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "hbarros-field"
+  },
+  "APP-2319": {
+    "app_id": "APP-2319",
+    "business_unit": "Procurement",
+    "criticality": "tier3",
+    "auto_renew": true,
+    "owner_handle": "rkapoor-data"
+  },
+  "APP-2320": {
+    "app_id": "APP-2320",
+    "business_unit": "People & Culture",
+    "criticality": "tier3",
+    "auto_renew": false,
+    "owner_handle": "eallison-it"
+  }
+}
